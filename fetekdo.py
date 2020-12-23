@@ -16,7 +16,6 @@ import shutil
 import pygame
 
 pygame.mixer.init()
-
 pygame.mixer.music.load("silent-night.wav")
 
 pygame.mixer.music.play()
